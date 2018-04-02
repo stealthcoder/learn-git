@@ -8,5 +8,4 @@ line b
 line cc
 line d
 line ee
-g
-line f
+g branch2
